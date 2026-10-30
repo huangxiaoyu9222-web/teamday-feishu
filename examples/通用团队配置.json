@@ -1,0 +1,23 @@
+{
+  "team": {
+    "name": "示例：社区运营组（虚构）",
+    "goal": "把活动反馈与成员承诺整理成每日可执行事项。"
+  },
+  "members": [
+    {
+      "id": "ops1",
+      "name": "小周",
+      "role": "运营负责人",
+      "focus": "活动复盘、成员反馈、协同安排",
+      "open_id": ""
+    }
+  ],
+  "schedule": {
+    "enabled": false,
+    "morning": "08:00",
+    "midday": "13:00",
+    "timezone": "Asia/Shanghai",
+    "weekdays_only": true
+  },
+  "feeds": []
+}
